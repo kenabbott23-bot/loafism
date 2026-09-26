@@ -1,2 +1,2 @@
 # loafism
-Art portfolio for myself 
+Art portfolio for public profile
